@@ -1,0 +1,46 @@
+
+
+.burro{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.kk-erei{
+    color: blue;
+    font-size: 26px;
+}
+
+.img-fezes{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    top: 100px;
+}
+
+.ll{
+    height:300px;
+    margin-top: 100px;
+    cursor: pointer;
+}
+
+.quero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -200px;
+}
+
+.no{
+    color:brown;
+    opacity: 40%;
+    font-size: 40px;
+    text-decoration: none;
+    border-bottom: none;
+}
+
+.a{
+    text-decoration: none;
+    border: none;
+}
